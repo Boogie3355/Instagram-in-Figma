@@ -26,5 +26,5 @@ Google Fonts – Typography styling.
 
 Material Icons / Custom SVGs – Icons used in the design.
 
-[▶️ Watch Demo](https://youtu.be/EOyF1H5Og98)
+[▶️ Watch Demo](https://www.youtube.com/watch?v=EOyF1H5Og98&ab_channel=NANDHAKISHORE)
 [▶️ View File in Figma](https://www.figma.com/proto/jGKtK8MW66pI9YnJAt3pt6/Instagram?node-id=160-138&t=UvOcr9S1iYTgzdjc-1)
